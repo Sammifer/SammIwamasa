@@ -9,14 +9,16 @@ h1 {
   justify-content: flex-end;
   padding-left: 8rem;
   padding-right: 1rem;
+  padding-top: 0px;
+  position: fixed;
+  right: 0px;
 }
 
-.navbar a {
+.top-tabs {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
   padding-left: 15px;
   padding-right: 15px;
   font-size: 30px
-}
-
-#top-tabs {
-  color: black;
 }
